@@ -1,6 +1,5 @@
 window.onload = function() {
   let cardNumber = [
-    "A",
     "2",
     "3",
     "4",
